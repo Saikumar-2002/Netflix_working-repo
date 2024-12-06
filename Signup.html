@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.0.4/tailwind.min.css">
+</head>
+<style>
+    .navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: black;
+
+}
+.logo img{
+    width: 130px;
+    height: auto;
+    padding-left: 20px;
+}
+.links{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    padding-right: 30px;
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+}
+button{
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-size: 20px;
+    background-color: rgb(239, 53, 53);
+    color: #fff;
+    cursor: pointer;
+    border: none;
+}
+.parent{
+  background-color: black;
+  opacity: 0.8;
+}
+
+</style>
+<body>
+    <div class="navbar">
+        <div class="logo">
+            <img src="https://pngimg.com/uploads/netflix/netflix_PNG25.png" alt="netflix logo">
+        </div>
+        <div class="links">
+            
+            <a href="index.html" >Home</a>
+            
+            <button>login</button>
+        </div>
+
+
+    </div>
+<div class="flex items-center min-h-screen  " style="background-image: url(https://analyticsindiamag.com/wp-content/uploads/2019/05/apps.55787.9007199266246365.687a10a8-4c4a-4a47-8ec5-a95f70d8852d.jpg);">
+    <div class="container mx-auto">
+      <div class="max-w-md mx-auto my-10 bg-gray-800 p-5 rounded-md shadow-sm parent">
+        <div class="text-center">
+          <h1 class="my-3 text-3xl font-semibold text-gray-100">
+            Contact Us
+          </h1>
+          <p class="text-gray-400 dark:text-gray-400">
+            Fill up the form below to send us a message.
+          </p>
+        </div>
+        <div class="m-7">
+          <form action="https://api.web3forms.com/submit" method="POST" id="form">
+            <input type="hidden" name="access_key" value="b1abd7cd-99ad-4f3f-92a2-1bef18714116" />
+            <input type="hidden" name="subject" value="New Submission from Web3Forms" />
+            <input type="checkbox" name="botcheck" id="" style="display: none;" />
+  
+            <div class="mb-6">
+              <label for="name" class="block mb-2 text-sm text-gray-400">Full Name</label>
+              <input type="text" name="name" id="name" placeholder="John Doe" required class="w-full px-3 py-2 h-12 rounded-sm placeholder-gray-500 text-gray-900 bg-gray-100 text-sm focus:outline-none" />
+            </div>
+            <div class="mb-6">
+              <label for="email" class="block mb-2 text-sm text-gray-400">Email Address</label>
+              <input type="email" name="email" id="email" placeholder="you@account.com" required class="w-full px-3 py-2 h-12 rounded-sm placeholder-gray-500 text-gray-900 bg-gray-100 text-sm focus:outline-none" />
+            </div>
+            <div class="mb-6">
+              <label for="phone" class="block mb-2 text-sm text-gray-400">Phone Number</label>
+              <input type="text" name="phone" id="phone" placeholder="+1 (555) 1234-567" required class="w-full px-3 py-2 h-12 rounded-sm placeholder-gray-500 text-gray-900 bg-gray-100 text-sm focus:outline-none" />
+            </div>
+
+           <div class="mb-6">
+            <label for="phone" class="block mb-2 text-sm text-gray-400">select your subscription(pack of month,year)</label>
+            <select>
+                <option>pack of 149₹</option>
+                <option>pack of 249₹</option>
+                <option>pack of 449₹</option>
+                <option>pack of 949₹</option>
+            </select>
+            
+           </div>
+            <div class="mb-6">
+              <button type="submit" class="w-full bg-red-600 inline-block text-white no-underline hover:text-indigo-100 py-4 px-4 rounded-sm focus:outline-none">
+                SUBMIT
+              </button>
+            </div>
+            <p class="text-base text-center text-gray-400" id="result"></p>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script>
+    const form = document.getElementById("form");
+const result = document.getElementById("result");
+
+form.addEventListener("submit", function (e) {
+  const formData = new FormData(form);
+  e.preventDefault();
+  var object = {};
+  formData.forEach((value, key) => {
+    object[key] = value;
+  });
+  var json = JSON.stringify(object);
+  result.innerHTML = "Please wait...";
+
+  fetch("https://api.web3forms.com/submit", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      Accept: "application/json"
+    },
+    body: json
+  })
+    .then(async (response) => {
+      let json = await response.json();
+      if (response.status == 200) {
+        result.innerHTML = json.message;
+        result.classList.remove("text-gray-500");
+        result.classList.add("text-green-500");
+      } else {
+        console.log(response);
+        result.innerHTML = json.message;
+        result.classList.remove("text-gray-500");
+        result.classList.add("text-red-500");
+      }
+    })
+    .catch((error) => {
+      console.log(error);
+      result.innerHTML = "Something went wrong!";
+    })
+    .then(function () {
+      form.reset();
+      setTimeout(() => {
+        result.style.display = "none";
+      }, 5000);
+    });
+});
+
+  </script>
+    
+</body>
+</html>

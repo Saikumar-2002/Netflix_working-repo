@@ -1,0 +1,259 @@
+[
+
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABR7eC22DTqYL0nl_8fcsaC3xI-ljrxzujaoZdgtHwOwMW7CX7iHKhZIHNl3babrk8Xg6mLzfkqSSrIsOwV8-PmElLFbsTO0O3j_GdX6_5nL5ELGiwGvaaiUJradOshnqHQq3KPsECTmoqsxoEO16SzKh6RpkOU8zYEhQqr__Yb9rW8D5F7sMWNtpFTYjMbdTx5btVhtkJ5kqTDXRZS2xn7AbSoYoXkVyTOAx28DtY_vg4g6dFHBCTHmH3eNCq6NgeM0OUjg6aSzH752kUZCqk4NDdM94zPPh9dVdSi1uuYMIzhowBNBWr4I8WqCS_Cr8ELrdOy32dbWFlbsPsvs61Mk.jpg?r=818",
+        "name":"Lucky bhaskar",
+        "starring":"Dulquer Salmaan, Meenakshi Chaudhary, and Ramki",
+        "desc":"A middle-class bank clerk who longs to trade stability for adventure gets more than he bargained for when he unexpectedly becomes a wealthy man",
+        "rd":2024,
+        "TOM":"Thriller",
+        "banner-img":""
+
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABX9xCQPNhb5BeJtuGXeTMd_NuYYOaQC8qHGfEbrB75FR2LmT1tNH2OYKiOEXTKjjjzzgE8yBApZS8Ci2zFjRtth99ee5rhXOxLaFbxSVsbFaqRbE2AV8-3JF1lhp-znG8y2Z0B4vUK9PJiWZ9rauqdzjL41ClR_TOwVxiG_ZDghkOrCZJVuI7RxV758-C4Vm5n26EtOB1Q7jhiEO7sei49iyL86MVPthTxvOuSGJB1oq3JGGI4HdnOR5XsWLoOvLX3wrMxlrTcGDVo3cTu_bsmQ0JkgbiGHGUpeWrrBdPeJXARxFFkSLEK0w3MwN5-r0Yqp0wOQNVYSzheICFjSaQlI.jpg?r=453",
+        "name":"Devara",
+        "starring":"NTR Jr., Saif Ali Khan, and Janhvi Kapoor",
+        "desc":"A mighty sea warrior takes a violent stand against the criminal deeds of his village. Years later, his mild-mannered son walks a path of his own",
+        "rd": 2024, 
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTcIWDPfPUzLcPbukJrzkJStDoWOEVYmRON27UgHXnvLgkdsQcQvjXFdu26XtBizsau_9YLe4cSxi1bAKySatkLi114MAJfYvsA.jpg?r=cc1",
+        "name":"GOAT",
+        "starring":"Vijay, Prashanth, and Prabhu Deva",
+        "desc":"He was his agency's top hostage negotiator, field agent and spy — but years after retiring, one mission brings his past back to haunt him and his family.",
+        "rd": 2024, 
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeNLY_FPTBPEIbKlg9EdanlcJouPjqq_YiGICclXTlLe5VgMQ1KPSWN3M_7JHbCg8H7vTH38DOBaxtFYSoJLzmzRfvx59FRdHaGqfSA0GM7-m0vcdxPu2AQKUfNWbLVJd-AcRDv0OENV9mcZEkfHsC1FMdNN5KM-_yc.jpg?r=643",
+        "name":"Meiyazhagan",
+        "starring":"Karthi, Arvind Swamy, and Sri Divya",
+        "desc":"A man makes a bittersweet journey back to his hometown after 22 years and meets an insistent yet kindhearted relative whose name he can't remember",
+        "rd": 2024, 
+        "TOM":"Drama"
+    },
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdya4_wM5qg0gbK9BOniNgbcYbkSchEnUOEgeuBjZVZ4adD1XncTZ3usxS2gbkbjDbcwUa4428AlKfcQ1eeYDd8pzKDjKIcVfh2y4eOOVXTbRlWyWgCwKcEAs1QmMbnzWjTf.jpg?r=0fd",
+        "name":"We can Be Heroes",
+        "starring":"YaYa Gosselin, Pedro Pascal, and Priyanka Chopra Jonas",
+        "desc":"When alien invaders capture Earth’s superheroes, their kids must learn to work together to save their parents — and the planet",
+        "rd":2024,
+        "TOM":"kids"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABU6S0zUN4hzkK4YkJGO7tuZxFpunAHg2KK82Dz2DUImm583JRCBfcX8ifvPUvHNsZFw80KvZB-nPJDzqvcchTxfbTtMNXPRw9Ew.jpg?r=6c2",
+        "name":"A Dog's Way Home",
+        "starring":"Ben Ratner, Jonah Hauer-King, and Spencer Dreve",
+        "desc":"A devoted, homesick dog goes on a treacherous journey across the American heartland to be reunited with her owner",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfRXQ365yo-dDyZQGUGANF2TY0PyDdqprQf-viQwIdq2M7QVaYi7KhLhEvP3RDl0bPU16B_Jwzepyh4rd8NldNSbN5uBm-QCAUw.jpg?r=7a3",
+        "name":"The super mario Bros.Movie",
+        "starring":"Chris Pratt, Anya Taylor-Joy, and Charlie Day",
+        "desc":"Magically teleported from Brooklyn to the Mushroom Kingdom, two plucky plumbers team up with a princess to battle a tyrannical fire-breathing turtle",
+        "rd":2024,
+        "TOM":"kids"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWuNdTi6Z5Lr2PqcHMDv_qn16t1dIZCKYoXItJzMzY2o1w-fStWL9grDSLGamr3k-RlNbgues1YCaNSxbx4y050Mzl3HLLv7a_k.jpg?r=b94",
+        "name":"The Angry Birds Movie 2",
+        "starring":"Jason Sudeikis, Rachel Bloom, and Leslie Jones",
+        "desc":"Enemies turn into frenemies when the Pigs call for a truce with the Birds to unite against a formidable new foe that’s threatening all of their homes",
+        "rd":2024,
+        "TOM":"kids"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf3iHaqbb317P_6lpTvIYzcCIIDC8GRcJymoYr_z3_2GwGtddOEbH9jCos9TlwKLvIiaLGBIzofX6rLO5R-0WL9wwE3XOEgxDBtUjNknNF2qY6cifNqgTt6q22TeDf9bH0iz.jpg?r=2c4",
+        "name":"The sea beast",
+        "starring":"Karl Urban, Zaris-Angel Hator, and Jared Harris",
+        "desc":"When a young girl stows away on the ship of a legendary sea monster hunter, they launch an epic journey into uncharted waters — and make history to boot.",
+        "rd":2024,
+        "TOM":"kids"
+    },
+
+
+
+
+
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcbizvvobKDYX8kPDrbj_h0cMcBSS-XqY7gWLX4DFoqyRoqZe2MsZzPXhNZ-61YPTTvP9UYXkyu6r30aZq59_RM9Xc1RNUklLtmCw4PLxCTPXHcHY-L7YpGQytr6UxOj7PtB.jpg?r=650",
+        "name":"LEO",
+        "starring":"Adam Sandler, Bill Burr, and Cecily Strong",
+        "desc":"Adam Sandler is a lizard named Leo in this coming-of-age musical comedy about the last year of elementary school as seen through the eyes of a class pet.",
+        "rd":2024,
+        "TOM":"Kids"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf6CZnfQe5t1RvxynqvZvuvimYymshre0OtHIH4c5mQiTgjWdFM5-2hnWb4GYQw-nU37HRssQ0j4OmJyRs15PZiZTtz5IIbYnak.jpg?r=ecb",
+        "name":"Goosebumps",
+        "starring":"Jack Black, Dylan Minnette, and Odeya Rush",
+        "desc":"A teen is glum about moving to a small town until he falls for his new neighbor. But her dad is a horror writer whose scary world soon turns real",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQgslj5jJktYTSkU3PAv14AmITZuNFgPQFDX16IGXZo-clIXkRczOvDUK0FT5q-Hkx2agpbn8P7LH5S3a13AShuimtQWzhl6GWC38m__S6fJazuvyr8uDJu9fs0YivDuNBH4.jpg?r=bb5",
+        "name":"Spy kids:Armageddon",
+        "starring":"Gina Rodriguez, Zachary Levi, and Connor Esterson",
+        "desc":"When a game developer unleashes a powerful computer virus, the children of two secret agents must work together to save their parents — and the world.",
+        "rd":2024,
+        "TOM":"kids"
+    },
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa_zG7wlW6_cCCIMLRRKTJfI7GfKHhYEk5wfQ0YgKHKIXEzrXQgPUg-ES5sQZivZISWDdAeENmtzYo3QL_K8vC_Q94qO3Rlcbd4.jpg?r=033",
+        "name":"Laapataa Ladies",
+        "starring":"Nitanshi Goel, Pratibha Ranta, and Sparsh Shrivastava",
+        "desc":"Mistakenly swapped en route to their new husbands' homes, two brides navigate their unexpected surroundings, making delightful self-discovery journeys",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABe-zc6aLy7jK7f9D__eWspDRRXxhCtYcBApMOXrMa0mNU7GV9zY1nH3ghAZe6BObNWNt6E55BM5SpcLZD1wCdG3LmhVS9fM8BCumXF9q2IDiUEO5-iZp0My8-_UpJU_nb2XbEJCiebgP6r-nQUvE0K0AhzURZ4lDJkk.jpg?r=941",
+        "name":"Khel khel Mein",
+        "starring":"Akshay Kumar, Taapsee Pannu, and Vaani Kapoor",
+        "desc":"An unhappily married couple and five friends decide to share every call or text they get over one night with each other. There's nothing to hide — right?",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSaxW7HqP8BldNO2q-jw9IpV0TUDjtjUmhXvK8nKLXcepLsdypyTzzB5QQqNL6Ow8crexz9qWkKeP9lVBcVPC3fb374Gui5CEC8.jpg?r=7dd",
+        "name":"crew",
+        "starring":"Tabu, Kareena Kapoor, and Kriti Sanon",
+        "desc":"When their airline faces bankruptcy, three desperate flight attendants resort to a high-flying gold smuggling ring to keep their careers afloat.",
+        "rd":2024,
+        "TOM":"comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfF6DDP9H0k3knc4_Uh2-SECtSrqoG6SQmvrWAmf12GWPRHP--iiQclbKu6xhsdzYz4_BTBj7g3LJWlcOK7P-3AUUNgdeerNUfk.jpg?r=e65",
+        "name":"Dunki",
+        "starring":"Shah Rukh Khan, Taapsee Pannu, and Boman Irani",
+        "desc":"When his friends in Punjab struggle to clear the immigration process, an ex-soldier guides them on a risky journey to enter the UK without permission.",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSTTFsy67imvZjqhjagGbePIEfZEX4om_XGu6P6WJoDp4Z74BjWnNIozK94hZUnDdNTwVUbOZkNeXOrdq2uPUAfWOrawho5DZhYWdMmLRkvsgMxy7vjetJSI94WVL8KPlf8H.jpg?r=fb9",
+        "name":"Wild wild Punjab",
+        "starring":"Varun Sharma, Sunny Singh, and Manjot Singh",
+        "desc":"Four friends road-trip across Punjab to help one of them get over an ex-girlfriend, but are quickly caught in a fiasco like no other.",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf-d_RQgH7ywbVtuVcnO_hjYBRVP8lpM10MqBosJcEVzfOCeHv5gScvotoV0_O2cdmoKWSr35-uhJxQuX88KMbtoMkzmmEaGdQo.jpg?r=e47",
+        "name":"Adios Amigos",
+        "starring":"Asif Ali, Suraj Venjaramoodu",
+        "desc":"When fate brings two strangers from different worlds together, they go on an impromptu journey, learning about life and each other along the way.",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcQRloNQEoSsNifsMqR_1ekZO3ZxkoSjcAkS0is_CjBHzZ_4hv6R9WVUoXe1DErnKeRtpu-M8ov-DEAmMgPpfE-nSJIsWALv8KI.jpg?r=077",
+        "name":"Aay",
+        "starring":"Narne Nithin, Rajkumar Kasireddy, and Ankith Koyya",
+        "desc":"When a man comes home between COVID lockdowns, he connects with old friends and falls for a woman who feels influenced by her caste while finding love.",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbo2IzJyrcMRm3h2yK0hKF-CpoHdLvPo9oMrhf_6mGxXnCIAhlkAVQVKjQQMyQJE2iJECNfdmb-ocbusU1_HUigLB4HGrWINnsFu9ltihz-QLToE2eBBkpTdknyF6Vs6vgDJ.jpg?r=ae6",
+        "name":"Murder Mubharak",
+        "starring":"Pankaj Tripathi, Sara Ali Khan, and Vijay Varma",
+        "desc":"When a gym trainer is murdered at an elite Delhi club, a wily investigator unravels the sordid secrets of its ultrarich members to find the killer.",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRbsl7e8nMksd4cUpSPml40BxI-N9GatiKO9kcR3Wj35KQN0KshmQOCmy1BB9-WtCVvUSRJEhpqW595IbAeAjkvPkI4zZIZSPnw.jpg?r=e35",
+        "name":"Dream Girl 2",
+        "starring":"Ayushmann Khurrana, Ananya Panday, and Paresh Rawal",
+        "desc":"Karam secretly turns his female alter ego into a dancer and woos a millionaire's son in hopes of paying family debts and impressing his fiancée's father.",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdKYdfCbZQ3Dti8xTLFMVNqXj3Gmsp-gb2Vtho1200wdp24dc08mT9AFJ3G1WO6x7WJRzfPXL4Guon24KHMqCKvXvPr4gagZFXM.jpg?r=1ae",
+        "name":"chillar party",
+        "starring":"Irfan Khan, Raju, and Sanath Menon",
+        "desc":"Eight feisty boys befriend young drifter Fatka. When a mean politician threatens Fatka's way of life, the boys band together in honor of their pal.",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABZkG_HOTMfXuyNhXLnGEh_xRlClMmzWzKJC6bn9Jxy_CmM7T5NUiKfWgDVrMdWvTODVcuQ3Xt-mDYo_53mLVlSXAwhfWVIHrAJY.jpg?r=bed",
+        "name":"Mad",
+        "starring":"Sangeeth Shoban, Ram Nithin, and Narne Nithin",
+        "desc":"Youthful hijinks, romance and lifelong friendships are all part of the curriculum as Manoj, Ashok and Damodar — aka the MAD squad — cope with college",
+        "rd":2024,
+        "TOM":"Comedy"
+    },
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW4ut8WCAcY8bd34g5OhMRNZ9_7OSpTZBm_PY5dce0xpo2iYFZfxHRHApo-UpdltktwRvE_VE0Ejt6r-Lw3uwbjYIZve86uxZsw.jpg?r=87a",
+        "name":"Article 370",
+        "starring":"Yami Gautam, Priyamani, and Vaibhav Tatwawaadi",
+        "desc":"Ahead of a major constitutional decision, special agent Zooni Haksar is tasked with a secret mission to quell violence in a conflict-ridden region",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSKjgYrlqwKZg48_7mglvDWCKQyoJZubhOpJ7ramngyv0Csjbd-HHLxf1LGR-9cUtQx9tUDOLdr3mhMUXA0yufP3xJJtiLYte9WzRX_IbDsjp1q7TQEygeg0F4HbePycYuEm.jpg?r=868",
+        "name":"Under paris",
+        "starring":"Bérénice Bejo, Nassim Lyes, and Léa Léviant",
+        "desc":"In order to save Paris from an international bloodbath, a grieving scientist is forced to face her tragic past when a giant shark appears in the Seine",
+        "rd":2024,
+        "TOM":"Thriller"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABbr_VIfg3BD0gVcgUyfGCKxnPIgSeiAkThrhmXHrLu0hz4jAiBocik0A71-EBfFH6CtJVAwcifC6eQWOkh4_YhRGdA1kHghVyv4.jpg?r=c5e",
+        "name":"The Meg",
+        "starring":"Jason Statham, Li Bingbing, and Rainn Wilson",
+        "desc":"When an attack leaves a research crew trapped at the bottom of the sea, a rescue diver must face a massive predator long presumed extinct to save them.",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABW5e__kJ6PIrzO0lr9LVCamI-n_baLLWE7J9Fq6-KYO1gowl4a7RsMoZ4ctLJXpAcM0lsJen6Swbp6FGQYl9yM7GgemBfSOBHjw.jpg?r=0c8",
+        "name":"Leo(Hindi)",
+        "starring":"Vijay, Sanjay Dutt, and Arjun",
+        "desc":"Violently pursued by criminals who insist he's a former gangster, a humble cafe owner fights to shield his family — and the truth about his identity",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXKOmq2G_S78FVTPZHW2OQYCK7sL6cFR20E7jfHzWW373iox93MdDTkg5zGmW8cs0gFo8ro5u32ZsBgHVtoZa1DuV2cxJPWsBVptkAw6sqgSplic87c9JMCZKlyWs0oww5jw.jpg?r=8f2",
+        "name":"Phir Aayi Hasseen Dillruba",
+        "starring":"Taapsee Pannu, Vikrant Massey, and Sunny Kaushal",
+        "desc":"While evading the cops in Agra, Rani and Rishu scheme to run away together. But when their plans go awry, Rani asks a mild-mannered admirer for help",
+        "rd":2024,
+        "TOM":"Thriller"
+    },
+  
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQ1edpLJyw_8tln7ddFRXWXX4EkxJpBzGMSOGw9GyqTvsXU0gIseJIhhG-GMJ_LAJNHbRMVBZkI22uZuPLfMf7kErP0_QUoFy5A.jpg?r=e7d",
+        "name":"Dont Breathe 2",
+        "starring":"Stephen Lang, Brendan Sexton III, and Madelyn Grace",
+        "desc":"A self-reliant blind veteran trains his adopted daughter to face any danger, but they're both ambushed when a vengeful stranger arrives from the past.",
+        "rd":2021,
+        "TOM":"Horror"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABTeKlojl0f9oSOGYhWoJMYTtgWPik_HHpzkpXUflMCZW3TwS7w576QRYuxGnVkGVeQJm-BpJ0wI5neerl0igPq88mBhogXz7zvI.jpg?r=858",
+        "name":"Thanksgiving",
+        "starring":"Patrick Dempsey, Nell Verlaque, and Addison Rae",
+        "desc":"One year after a Black Friday tragedy, a ruthless killer stalks Plymouth, Massachusetts to exact bloody revenge — one complicit resident at a time",
+        "rd":2024,
+        "TOM":"Horror"
+    }
+
+
+
+]

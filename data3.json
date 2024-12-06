@@ -1,0 +1,123 @@
+[
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABRhybUqTpg08T8TnfSlW1TPvVx4rMoeyARJusNHmFijC4KWeaoSl9QSkEFSlLFXCZC4pITSugdJhfWa1jkM8Ina1EMepcEIntBvhg4f1kvs3f51AEJbfEFSx6B718Jng8r3j.jpg?r=e0f",
+        "name":"Damsel",
+        "starring":"Millie Bobby Brown, Ray Winstone, and Robin Wright",
+        "desc":"A young woman's marriage to a charming prince turns into a fierce fight for survival when she's offered up as a sacrifice to a fire-breathing dragon",
+        "rd":2024,
+        "TOM":"Fantasy"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfqe9kKVd9FNasX73KPSq5kM_0qBYnS2adRNHE3wk05DI_a1Lmlq1PuxFcozaTk1a9WwBfUHlbeq9g7UukGxS0SOnAHlblXfslk.jpg?r=8d0",
+        "name":"Spider_Man: No Way Home",
+        "starring":"Tom Holland, Zendaya, and Benedict Cumberbatch",
+        "desc":"When his loved ones are put at risk, Peter Parker asks Doctor Strange to restore his secret — and accidentally sets off a disaster of epic proportions.",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABd3vMdUmcN_SPBaPbc-wVRhJWqRJ9RMBWVihapaQUGqVsOUuAdVO7EQZB5ennxZWh6VtcwZSoj9G8Jit4GaVdA7bnurRR5bxPAY.jpg?r=972",
+        "name":"Ulajh",
+        "starring":"Janhvi Kapoor, Gulshan Devaiah, and Roshan Mathew",
+        "desc":"A young diplomat from a powerful family is elevated to a prestigious position in London. But a reckless affair gets her entangled in a global conspiracy.",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQUAB7P085DHqN30qQxWCFOEVcJoeWbIByNwvYFVTl14oBd-G4SwpQB1MQH5BG23x9LJaBUGv3IdIaJQb0QN-wkFQminLabsKe87C7ZF-ZjenrWSHD3saAqpk8PRaqDGAKiJ.jpg?r=4f8",
+        "name":"Nowhere",
+        "starring":"Anna Castillo, Tamar Novas, and Tony Corvillo",
+        "desc":"Pregnant, alone and drifting in the sea, a woman trapped in a shipping container tries to survive after fleeing a devastated totalitarian country.",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWSfBJVw6g2R603B4lER2UD8X4iUbhiurTKtUlmIthnC84pAt215gkB25gdwUwbRki4Q0IAMfriV3u9gbIJGBzZdWCyHte0utmyMkLfbeDMqgH6fuRhNShiZRRxSu-FPzddTBomCQLlBKMVXq_37hQX7RCHoPsvRiWunLthFZsNldvAK65X76NinjOi8tqvHAuCBnoHb8O-x6k6Dxmwe6LBWPs8UTbbg1BfJ2o6rQUH-qEhMu4sEgPliDnHQgw9uI9sEOW9spl4ikZfHB64ohzTMr0UZ.jpg?r=187",
+        "name":"Ready or Not",
+        "starring":"Samara Weaving, Adam Brody, and Mark O'Brien",
+        "desc":"A bride's romantic wedding night takes a terrifying turn when her wealthy and eccentric in-laws force her to play a gruesome game of hide-and-seek.",
+        "rd":2024,
+        "TOM":"Horror"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQNcmvqUa298uWoIvfqlHQQ2pXCGJtM8MBPOWX2yVC394ityzKyt1cfWE-TZmUa6mhX5BYJ_2d5_MQijbUyIMcnsk0OxjrCYHgexbDwN_jwuDyhWWYwx6aVHUplBAYfBJ3PU.jpg?r=ed2",
+        "name":"Lift",
+        "starring":"Kevin Hart, Gugu Mbatha-Raw, and Vincent D'Onofrio",
+        "desc":"A professional thief and his expert crew attempt the ultimate heist: stealing $500 million in gold from a vault on a plane — 40,000 feet in the air.",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSqsSwWjM_EoKKIbIFJqd5P6Hj-_ZeUoSMzPkFRwjkRDwHh9vUOGu_nhHTCEy3v_Kqn4BMndGd5IcAMh6LIoNBdju3sBZ31vnmo.jpg?r=0a0",
+        "name":"Maharaja",
+        "starring":"Vijay Sethupathi, Anurag Kashyap, and Mamtha Mohandas",
+        "desc":"When his prized possession gets stolen, a barber seeks help from the police, who jeer at his request — until they learn what they're really looking for",
+        "rd":2024,
+        "TOM":"Drama"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQiOWPxN1iBVzqE8dmMfkGrX8N8CZfhGM8EyyKFOIklQtSaZuZskEPp8cfbzpVI1SvvbdcJ2J5nY3v6V14YwMHjuXLncHAFsVEQ.jpg?r=523",
+        "name":"Assassins",
+        "starring":"Sylvester Stallone, Antonio Banderas, and Julianne Moore",
+        "desc":"An elite contract killer planning to call it quits crosses paths with a brash hit man aiming to poach his final assignment by any means necessary",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSrqQLcipapgeu0J6lLiNmdXvOSJQ531wDlvCcqgFMgcNz6fwjzH93OC2ozcbPE-NvKPkOB3vQQsZN4x15ZOPAz_eM1M_mw44dOC-JxIyh8bfmGWQp4_1jCSCDzzFfIQNFt6.jpg?r=929",
+        "name":"Badland hunters",
+        "starring":"Don Lee, Lee Hee-jun, and Lee Jun-young",
+        "desc":"After a deadly earthquake turns Seoul into a lawless badland, a fearless huntsman springs into action to rescue a teenager abducted by a mad doctor.",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABa-Avj1WboxQl4-usCkCWs1EZAan0xkYxwFTtkbxK_NC2y6uwSIGWCy-0n6p_5FngUBHyIrcb_xxUOB5mS-cghyn4wPkxq2OuPE.jpg?r=66a",
+        "name":"Salaar",
+        "starring":"Prabhas, Prithviraj Sukumaran, and Shruthi Haasan",
+        "desc":"The fate of a violently contested kingdom hangs on the fraught bond between two friends-turned-foes in this saga of power, bloodshed and betrayal",
+        "rd":2023,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeEJlN9v-lvjBkacLifEt4slNY8Cd908ipwoq_DohWCl0dYuhW7TLW6-pRmlmwUseL_U_vAUB9Wje1cjzHDFamMJnlI-VfnQNVI.jpg?r=6b7",
+        "name":"Kingsman:The secret Service",
+        "starring":"Colin Firth, Samuel L. Jackson, and Mark Strong",
+        "desc":"A top secret British spy agency recruits a juvenile delinquent, and a stylish mentor trains him in the skills of tradecraft.",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABWUT-_Wld0ynY5EgiSmerpgVFZBIRabRa00wN6zWA23XG3yUiwvKZXZ-epTHRnarp2ba5EUKKxm2wuwK3aFANI1-AK5Nhk-ZyyE.jpg?r=fd9",
+        "name":"Iraivan",
+        "starring":"Jayam Ravi, Nayanthara, and Vinoth Kishan",
+        "desc":"A police officer with a tendency to take justice into his own hands embarks on an intense hunt for a brutal serial killer.",
+        "rd":2023,
+        "TOM":"Thriller"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABUxf8Oi6b-AfMTchGw1zexfCRExKjd14PmkhCXIovRIpH70VwEz4VkhB58vU0BcoJhZhzfYtNhlYVIsB50UyowN9BDl_0XCIOTsaoXLS3ORN1g8mR0cqo99LDjNB_WZQX8zI.jpg?r=a98",
+        "name":"Extraction 2",
+        "starring":"Chris Hemsworth, Golshifteh Farahani, and Tornike Gogrichiani",
+        "desc":"Back from the brink of death, highly skilled commando Tyler Rake takes on another dangerous mission: saving the imprisoned family of a ruthless gangster",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABXrblJ72xaMuD8GG246Q5iYfn2BHbxAD9P6WBMYZ0op-YDMXm7j7Y8J5bRIvvPgq3lnguoiwcaOwzbO-spWy4ZjfgkSptYUK8pM.jpg?r=ab3",
+        "name":"Ninjaa Assassin",
+        "starring":"Jung Ji-hoon, Naomie Harris, and Ben Miles",
+        "desc":"A former assassin must protect himself and a Europol agent from a ruthless band of assassins who wish to exist in secrecy",
+        "rd":2024,
+        "TOM":"Action"
+    },
+    {
+        "img":"https://occ-0-2042-3662.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABSGSpuo9ZTHJR-jxel_VLVq4h8_MupDt6Camo8LA3JE2AKutDGSSQ3EVJwTbqVFAp9NZJF9FRfluUQEixZT6H24n5oOpOrDDXUdagsCx6HXlPOw_0AypOHjeZ7K2d1EiWAdg.jpg?r=bb6",
+        "name":"The platform 2",
+        "starring":"Milena Smit, Hovik Keuchkerian, and Natalia Tena",
+        "desc":"After a mysterious leader imposes his law in a brutal system of vertical cells, a new arrival battles against a dubious food distribution method.",
+        "rd":2022,
+        "TOM":"Thriller"
+    }
+]
