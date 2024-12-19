@@ -228,6 +228,34 @@ button {
     scale: 1.04;
     cursor: pointer;
 }
+/* slider-4 */
+.slider-container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30vh;
+    background-color: black;
+}
+.slider4 {
+    display: flex;
+    
+    width: 1200px;
+    overflow: hidden;
+}
+.slider-wrapper4 {
+    display: flex;
+    
+    transition: transform 0.5s ease;
+}
+.slider-wrapper4 img {
+    width: 300px;
+    height: auto;
+    padding: 5px;
+}
+.slider-wrapper4 img:hover{
+    scale: 1.04;
+    cursor: pointer;
+}
 /* footer started */
 /* styles.css */
 /* body {
@@ -360,3 +388,52 @@ button {
     margin-top: 10px;
     color: gray;
   }
+
+    /* parent pop up section */
+  
+.pop-parent{
+  background-color: black;
+  /* background-image: url(https://occ-0-2042-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABWerk1Fxd1tByMiq6Bv570Bqz3Cb3FqTI6rZc9OKO98054eIYgYQ9vOXlBWaom1EXLZbCBd2HtXQOh7x6-NcSf7NP-fRfyEEZElp.jpg?r=856&quot); */
+  
+  height: 100%;
+  width: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  position: fixed;
+  top: 20px;
+  left: 0;
+  display: none;
+  padding-inline: 100px;
+}
+
+/* .left-wrapper img{
+  width: 500px;
+  height: auto;
+} */
+.right-wrapper{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  height: 500px;
+}
+.right-wrapper p{
+  line-height: 30px;
+color: #fff;
+}
+.wrong{
+color: #fff;
+cursor: pointer;
+position: relative;
+top: -300px;
+left: -20px;
+font-size: 30px;
+}
+#popTitle{
+  padding: 50px;
+  font-size: 30px;
+}
+
+/* popup ended */
